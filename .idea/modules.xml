@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Decode_Ways/Decode_Ways.iml" filepath="$PROJECT_DIR$/Array/Decode_Ways/Decode_Ways.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/Excel_Sheet/Excel_Sheet.iml" filepath="$PROJECT_DIR$/Array/Excel_Sheet/Excel_Sheet.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/Step_Number/Step_Number.iml" filepath="$PROJECT_DIR$/Array/Step_Number/Step_Number.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/Stock_Buy_Sell/Stock_Buy_Sell.iml" filepath="$PROJECT_DIR$/Array/Stock_Buy_Sell/Stock_Buy_Sell.iml" />
